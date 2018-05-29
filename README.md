@@ -14,6 +14,6 @@ To use this UI, you will need to install following drivers Install run time engi
 
 Install Labview Run time serial driver http://www.ni.com/download/ni-serial-17.0/6613/en/
 
-Getting strated guide for this product can be found over here https://ncd.io/long-range-iot-wireless-vibration-sensor-getting-started/
+Getting strated guide for this product can be found over here https://ncd.io/long-range-iot-wireless-asset-monitor-getting-started/
 
-complete product manual for this product can be found over here https://ncd.io/long-range-iot-wireless-vibration-sensor-product-manual/
+complete product manual for this product can be found over here https://ncd.io/long-range-iot-wireless-asset-monitor-product-manual/
